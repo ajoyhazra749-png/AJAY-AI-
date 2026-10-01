@@ -1,0 +1,6 @@
+{
+  "name": "AJAY AI",
+  "description": "All-in-one modern AI creator platform for generating AI images, video, voice, music, stories, and multimedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
